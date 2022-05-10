@@ -1,0 +1,77 @@
+{
+    "produtos" : [
+        {
+            "id": 1,
+            "name": "Playstation 5",
+            "price": 5000.00,
+            "imgUrl": "https://public.blenderkit.com/thumbnails/assets/c3d9815c6b5643499fb93782a2cef96b/files/thumbnail_5b6072ea-1937-4f57-a258-c8df4cccbb5e.png.256x256_q85_crop-%2C.png", 
+            "description": "Descrição do Playstation 5"
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro",
+            "price": 15000.00,
+            "imgUrl": "https://www.apple.com/v/macbook-pro-14-and-16/b/images/overview/hero/intro__ewz1ro7xs14y_large.jpg", 
+            "description": "Descrição do MacBook Pro"
+        },
+        {
+            "id": 3,
+            "name": "Beats Dr Dre",
+            "price": 2000.00,
+            "imgUrl": "https://as-images.apple.com/is/MX3Y2?wid=445&hei=445&fmt=jpeg&qlt=95&.v=1580420157712", 
+            "description": "Descrição do Headset Beats by Dr. Dre"
+        }
+    ],
+    "maisvendidos": [
+      {
+        "id": 1,
+        "nome": "Playstation 5",
+        "preco": 5000
+      },
+      {
+        "id": 2,
+        "nome": "DualSense",
+        "preco": 450
+      },
+      {
+        "id": 3,
+        "nome": "HeadSet sem fio",
+        "preco": 450
+      },
+      {
+        "id": 4,
+        "nome": "Horizon West Forbbiden",
+        "preco": 399
+      }
+    ],
+    "detalhesproduto": [
+      {
+        "id": 1,
+        "nome": "Playstation 4",
+        "preco": 2000,
+        "descricao": "lorem Ipsum",
+        "imgUrl": "https://i.zst.com.br/thumbs/12/2c/3f/165939772.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "DualSense",
+        "preco": 450,
+        "descricao": "lorem Ipsum",
+        "imgUrl": "https://a-static.mlcdn.com.br/1500x1500/controle-dualsense-playstation-5-ps5/magazineluiza/043186600/ac16d7d4124447ded6524e43d8831afd.jpg"
+      },
+      {
+        "id": 3,
+        "nome": "HeadSet sem fio",
+        "preco": 450,
+        "descricao": "lorem Ipsum",
+        "imgUrl": "https://s2.glbimg.com/tjrMAEg5yqRWkUoQPC9BEaqiDIw=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/A/u/ZBkWVTSAG9U0iQRKplyg/pusel2.jpg"
+      },
+      {
+        "id": 4,
+        "nome": "Horizon West Forbbiden",
+        "preco": 399,
+        "descricao": "lorem Ipsum",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/pt/e/e5/Horizon_Forbidden_West.jpg"
+      }
+    ]
+}
